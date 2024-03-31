@@ -1,0 +1,41 @@
+.contact__hero {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 100px;
+    align-items: center;
+    padding-top: 100px;
+}
+
+
+.contact__hero__left h2 {
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+
+.contact__hero__reight {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.contact__hero__reight h5 {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #0D1317;
+}
+
+.contact__hero__reight p {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    color: #5B5B5B;
+}

@@ -1,0 +1,49 @@
+.careers__applay {
+    padding: 100px 0;
+}
+
+.careers__applay h1 {
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.careers__inputs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+}
+
+.careers__inputs input {
+    border: none;
+    outline: none;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.36px;
+    text-align: left;
+    color: #9C9C9C;
+    padding: 17px 32px;
+    border-radius: 27px;
+    background: #D2DAED2B;
+}
+
+.careers__textarea {
+    margin-top: 24px;
+    display: grid;
+    margin-bottom: 32px;
+}
+
+.careers__textarea textarea {
+    border: none;
+    background: #D2DAED2B;
+    border-radius: 20px;
+    padding: 30px;
+    resize: none;
+    outline: none;
+
+}

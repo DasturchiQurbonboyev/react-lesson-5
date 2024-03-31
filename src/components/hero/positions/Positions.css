@@ -1,0 +1,65 @@
+.hero__positions {
+    padding: 128px 0;
+}
+
+
+.hero__positions h2 {
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    margin-bottom: 60px;
+}
+
+
+.hero__positions__box {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+
+
+
+
+
+
+
+.hero__positions__box__card {
+    max-width: 380px;
+    width: 100%;
+    background: #C1E4FF4D;
+    border-radius: 20px;
+    padding: 32px 40px;
+}
+
+.hero__positions__box__card h5 {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+
+.hero__positions__box__card p {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    color: #394149;
+    margin: 8px 0 32px;
+}
+
+.hero__positions__box__card a {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 19.17px;
+    text-align: left;
+    color: #F58A07;
+    text-decoration: none;
+}

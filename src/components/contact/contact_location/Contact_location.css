@@ -1,0 +1,25 @@
+.contact__location {
+    display: grid;
+    gap: 55px;
+    grid-template-columns: 1fr 1fr;
+    padding: 64px 0;
+}
+
+.contact__location__left {
+    display: grid;
+    gap: 16px;
+}
+
+.contact__location__left input,
+.contact__location__left textarea {
+    border: none;
+    padding: 17px 32px;
+    border-radius: 27px;
+    background: #D2DAED2B;
+    outline: none;
+    color: #9C9C9C;
+}
+
+.contact__location__left textarea {
+    resize: none;
+}

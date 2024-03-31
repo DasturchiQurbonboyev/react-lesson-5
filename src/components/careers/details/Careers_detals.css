@@ -1,0 +1,41 @@
+.careers__datails {
+    display: flex;
+    gap: 92px;
+    background: #C1E4FF4D;
+    padding: 68px;
+    border-radius: 20px;
+}
+
+.careers__datails__title {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.careers__datails__title h4 {
+    color: #F58A07;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 26.04px;
+    text-align: left;
+}
+
+.careers__datails__title h5 {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #0D1317;
+}
+
+.careers__datails p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    color: #5B5B5B;
+}

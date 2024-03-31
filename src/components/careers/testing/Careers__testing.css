@@ -1,0 +1,39 @@
+.careers__testing {
+    padding: 100px 0;
+}
+
+.careers__testing h1 {
+    font-family: Poppins;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #1D3444;
+    margin-bottom: 64px;
+}
+
+.careers__testing__description {
+    display: flex;
+    justify-content: space-between;
+}
+
+.careers__testing__description h5 {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #0D1317;
+}
+
+.careers__testing__description p {
+    max-width: 640px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    color: #5B5B5B;
+}

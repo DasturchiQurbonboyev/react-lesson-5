@@ -1,0 +1,31 @@
+.hero {
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 46px;
+    align-items: center;
+
+}
+
+.hero__left h1 {
+    font-family: Poppins;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+
+.hero__left p {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    color: #5B5B5B;
+    margin: 24px 0;
+}
+
+.hero__reight img {
+    width: 100%;
+}
